@@ -5,7 +5,7 @@
 - 🌱 Currently Skilled in Pen-Testing, Secure Code and DevSecOps.
 - 👯 Looking to collaborate on any cybersec-related projects.
 - 💬 Ask me about anything, I would be happy to help.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-abdelkader-417361204/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed-sin/).
 
 * * * 
 
